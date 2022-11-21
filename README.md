@@ -28,8 +28,8 @@ There were no challenges in modifying the Excel data and creating charts out of 
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
         
-1. The number of proportion between successful and failed campaigns have generally stayed the same through each month of the year. 
-2. Regardless of the number of campaigns launched for the month, there has been little to no effect on the number of cancelled campaigns, which have stayed very low in number all throughout the months. 
+    1. The number of proportion between successful and failed campaigns have generally stayed the same through each month of the year. 
+    2. Regardless of the number of campaigns launched for the month, there has been little to no effect on the number of cancelled campaigns, which have stayed very low in number all throughout the months. 
 
 - What can you conclude about the Outcomes based on Goals?
 
