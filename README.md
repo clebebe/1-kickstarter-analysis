@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-The purpose of this analysis is to be able to visualize how campaigns for plays have performed based on their launch date and funding goal amounts.
+Clint Louis wants to see how different play campaigns have resulted based on their launch dates and funding goal amounts. The analysis will help to compare and illustrate the relationship between the launch dates and funding goal amounts through charts.
 
 
 ## Analysis and Challenges
@@ -41,4 +41,4 @@ There were no challenges in modifying the Excel data and creating charts out of 
 
 - What are some other possible tables and/or graphs that we could create?
 
-    Other possible charts or graphs to consider is a graph illustraing the relation between the funding goal amounts and the campaign duration in days for a successful play. This will aid Louise to choose when she should launch the campaign so that shee has enough time to raise the funds before the play can be brought to stage.
+    Other possible charts or graphs to consider is a graph illustraing the relation between the funding goal amounts and the campaign duration in days for a successful play. This will aid Louise to choose when she should launch the campaign so that shee has enough time to raise the funds for her possible future play campaigns.
